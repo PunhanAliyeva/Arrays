@@ -4,12 +4,13 @@
 //int[] arr1 = { 211, 9, -6, 12, 34, 56, 32, 5, 19 };
 //int[] arr2 = { 18, -6, 3 };
 //bool IsCheck = false;
+
 #region Method1
 //for (int i = 0; i < arr1.Length; i++)
 //{
 //    for (int j = 0; j < arr2.Length; j++)
 //    {
-//        if (arr1[i] == arr2[j])
+//        if (arr2[j] == arr1[i])
 //        {
 //            IsCheck = true;
 //            break;
@@ -26,7 +27,7 @@
 //{
 //    foreach (int j in arr2)
 //    {
-//        if(i == j)
+//        if (j == i)
 //        {
 //            IsCheck = true;
 //            break;
