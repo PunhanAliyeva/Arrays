@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\bin\Debug\net6.0\Task7March.exe
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\bin\Debug\net6.0\Task7March.deps.json
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\bin\Debug\net6.0\Task7March.runtimeconfig.json
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\bin\Debug\net6.0\Task7March.dll
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\bin\Debug\net6.0\Task7March.pdb
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.AssemblyInfo.cs
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.dll
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\refint\Task7March.dll
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.pdb
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\Task7March.genruntimeconfig.cache
+C:\Users\User\Desktop\ArrayTask\Task7March\Task7March\obj\Debug\net6.0\ref\Task7March.dll
