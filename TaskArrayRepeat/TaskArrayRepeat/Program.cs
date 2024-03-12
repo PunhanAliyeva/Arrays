@@ -58,30 +58,26 @@
 
 #region Task3
 
-//int[] arr1 = { 4, 1, 47, 28, 32, 47, 1 };
-
-//for (int i = 0; i < arr1.Length; i++)
-//{
-//    int count = 0;
-//    bool CheckNum = false;
-//    for (int j = 0; j < arr1.Length; j++)
-//    {
-//        if (arr1[i] == arr1[j])
-//        {
-//            if (i < j)
-//            {
-//                CheckNum = true;
-//                break;
-//            }
-//            count++;
-//        }
-       
-//    };
-//    if (!CheckNum)
-//    {
-//        Console.WriteLine($"{arr1[i]} => {count}");
-//    }
-//}
-
-
+int[] arr1 = { 4, 1, 1,4,1,1,1,5,2,7,8,1 };
+for (int i = 0; i < arr1.Length; i++)
+{
+    int count = 0;
+    bool CheckNum = false;
+    for (int j = 0; j < arr1.Length; j++)
+    {
+        if (arr1[i] == arr1[j])
+        {
+            if (i < j)
+            {
+                CheckNum = true;
+                break;
+            }
+            count++;
+        }
+    };
+    if (!CheckNum)
+    {
+        Console.WriteLine($"{arr1[i]} => {count}");
+    }
+}
 #endregion
