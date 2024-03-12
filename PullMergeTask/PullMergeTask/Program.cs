@@ -94,3 +94,45 @@
 //Console.WriteLine($"Sum of odd numbers:{sumOdd}");
 //Console.WriteLine($"Sum of even numbers:{sumEven}");
 #endregion
+
+
+
+#region Practice
+//int[] nums = { -9, 2, 7, 13, 5, 22, 10 };
+//int sum = 0;
+//for (int i = 0; i < nums.Length; i++)
+//{
+//    sum+= nums[i];
+//}
+//Console.WriteLine($"Sum:{sum}");
+//Console.WriteLine($"Mean:{sum/nums.Length}");
+
+
+
+Console.WriteLine("Noqteleri daxil edek");
+Console.WriteLine("x1-i daxil edin:");
+int x1=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("y1-i daxil edin:");
+int y1=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("x2-ni daxil edin:");
+int x2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("y2-ni daxil edin:");
+int y2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("x3-u daxil edin:");
+int x3 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("y3-u daxil edin:");
+int y3 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Duz xettin qurulmasinin formuluna baxaq:");
+Console.WriteLine("(y2-y1)/(x2-x1)=(y3-y2)/(x3-x2)=(y3 - y2)/(x3 - x2)=(y3-y1)/(x3-x1)");
+if ((y2-y1)/(x2-x1)==(y3-y2)/(x3-x2) && (y3 - y2)/(x3 - x2)==(y3-y1)/(x3-x1))
+{
+    Console.WriteLine("Hamisi eyni duz xett uzerindedir..");
+}
+else
+{
+    Console.WriteLine("Eyni duz xett uzerinde deyiller..");
+}
+
+#endregion
+
+
